@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RafikGadzhiyev/vectors-and-vector-searching-example/issues"
   },
-  "homepage": "https://github.com/RafikGadzhiyev/vectors-and-vector-searching-example#readme"
+  "homepage": "https://github.com/RafikGadzhiyev/vectors-and-vector-searching-example#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
 }
