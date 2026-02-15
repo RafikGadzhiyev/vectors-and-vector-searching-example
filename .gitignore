@@ -1,5 +1,5 @@
 /node_modules/
-/src/samples/vector-data*
+/src/samples
 /src/dev
 
 .env*
